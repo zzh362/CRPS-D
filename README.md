@@ -1,6 +1,6 @@
-# DMPR-PS
+# SS-PSD
 
-This is the implementation of [DMPR-PS](https://github.com/Teoge/DMPR-PS/blob/master/DMPR-PS.pdf) using PyTorch.
+This is the implementation of SS-PSD using PyTorch based on [DMPR-PS](https://github.com/Teoge/DMPR-PS/blob/master/DMPR-PS.pdf).
 
 Add slant support and change model output layer
 
