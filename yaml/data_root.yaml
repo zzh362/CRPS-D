@@ -1,0 +1,10 @@
+data_root: /data/cylin/zzh/DMPR/datasets/CRPS
+
+point_train: /train/point_train
+point_test: /test/point_test
+slot_test: /test/slot_label
+img_test: /test/img
+
+# 1/12
+with_label_12: /data/cylin/zzh/DMPR/datasets/CRPS-Split/12/label
+without_label_12: /data/cylin/zzh/DMPR/datasets/CRPS-Split/12/nolabel
