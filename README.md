@@ -5,8 +5,8 @@
 ## Dataset (CRPS-D)
 We build a large-scale parking slot detection dataset (named CRPS-D), which includes various lighting distributions, diverse weather conditions, and challenging parking slot variants.
 
-Now, the dataset can be downloaded in in [Google Drive](https://drive.google.com/file/d/10Lm7RdoMliTVDnYX9lnM_Z3qXytXDWbG).
-The annotation tool and corresponding instructions can be downloaded [here](https://drive.google.com/file/d/1muVTCgz8Tg6dSIZy7Ql4zcT7r8ZWsfxq).
+Now, the dataset can be downloaded in [Google Drive](https://drive.google.com/file/d/10Lm7RdoMliTVDnYX9lnM_Z3qXytXDWbG).
+The annotation tool and corresponding instructions can be downloaded in [Google Drive](https://drive.google.com/file/d/1muVTCgz8Tg6dSIZy7Ql4zcT7r8ZWsfxq).
 
 
 ## Baseline (SS-PSD)
@@ -40,7 +40,8 @@ The pretrained model we trained on the CRPS-D dataset can be available at [Googl
 python train.py
 ```
 
-The folder structure of the training data can be found in the yaml/data_root.yaml file.
+
+    The folder structure of the training data can be found in the yaml/data_root.yaml file.
 
 
 ## Evaluate
